@@ -17,7 +17,6 @@
 </html>
 <?php
 
-$conexao = new PDO("firebird:dbname=127.0.0.1:C:\DADOS\DADOS.FDB","SYSDBA","masterkey");
 // var_dump($conexao);
 
 // if (isset($_POST["botao"])) {
